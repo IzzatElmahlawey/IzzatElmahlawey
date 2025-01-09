@@ -9,7 +9,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-###
+
 <img align="right" width="30%" height="30%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHl2YzdmZ3QxcjEwczZ1d2QxZHMxeW05NTY4OWE1OHExd3gxb2JzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 
 ###
