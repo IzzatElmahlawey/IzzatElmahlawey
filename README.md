@@ -9,12 +9,12 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
+###
+<img align="right" width="30%" height="30%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHl2YzdmZ3QxcjEwczZ1d2QxZHMxeW05NTY4OWE1OHExd3gxb2JzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 
 ###
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-<img align="right" width="30%" height="30%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHl2YzdmZ3QxcjEwczZ1d2QxZHMxeW05NTY4OWE1OHExd3gxb2JzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
-
+###
 <div align="left">
   <a href="https://www.youtube.com/@MARKGoast" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
