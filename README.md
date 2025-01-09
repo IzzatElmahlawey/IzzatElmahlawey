@@ -11,11 +11,9 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<div>
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 <img align="right" height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHl2YzdmZ3QxcjEwczZ1d2QxZHMxeW05NTY4OWE1OHExd3gxb2JzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
-</div>
 ###
 
 <div align="left">
