@@ -24,7 +24,7 @@
 📚 I'm currently learning advanced React concepts, state management (Redux, Zustand), and diving deeper into backend development.  
 ⚡ In my free time, I enjoy exploring new technologies, solving coding challenges, and working on personal projects.  
 🎓 Graduated from the Faculty of Computer Science at Zagazig University in 2024.  
-🏆 Completed a 6-month training program with DEPI to sharpen my development skills.
+🏆 Completed a 6-month training program with DEPI to sharpen my Web development skills.
 <br/>
 ###
 <div align="left">
