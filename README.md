@@ -2,10 +2,17 @@
 
 ###
 
-<h4 align="left">A highly motivated and passionate front-end developer seeking to leverage my skills in JavaScript, React.js,TypeSript, and front-end<br>development in a dynamic and innovative company. Dedicated to building user-friendly web applications with a keen eye for detail and a commitment to quality.</h4>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=IzzatElmahlawey.IzzatElmahlawey&"  />
+</div>
 
 ###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
 ###
+
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 <img align="right" height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHl2YzdmZ3QxcjEwczZ1d2QxZHMxeW05NTY4OWE1OHExd3gxb2JzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 
@@ -31,6 +38,10 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
