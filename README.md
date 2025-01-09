@@ -5,6 +5,11 @@
 <h4 align="left">A highly motivated and passionate front-end developer seeking to leverage my skills in JavaScript, React.js,TypeSript, and front-end<br>development in a dynamic and innovative company. Dedicated to building user-friendly web applications with a keen eye for detail and a commitment to quality.</h4>
 
 ###
+###
+
+<img align="right" height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHl2YzdmZ3QxcjEwczZ1d2QxZHMxeW05NTY4OWE1OHExd3gxb2JzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
+
+###
 
 <div align="left">
   <a href="https://www.youtube.com/@MARKGoast" target="_blank">
@@ -55,11 +60,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo"  />
 </div>
 
-###
-
-<img align="right" height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHl2YzdmZ3QxcjEwczZ1d2QxZHMxeW05NTY4OWE1OHExd3gxb2JzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IzzatElmahlawey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
