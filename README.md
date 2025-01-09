@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Izzat Elmahlawey and I'm a Frontend engineer</h2>
+<h1 align="center">👋 Hi, I'm Izzat Elmahlawey!</h1>
+
+###
+
+<p align="center">
+🚀 Frontend Developer | 🌐 Passionate about Web Technologies | 🎓 Computer Science Graduate
+</p>
 
 ###
 
@@ -13,7 +19,14 @@
 <img align="right" width="30%" height="30%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHl2YzdmZ3QxcjEwczZ1d2QxZHMxeW05NTY4OWE1OHExd3gxb2JzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 
 ###
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+- 🌍 I'm from Egypt.  
+- 🔭 I’m currently working as a Frontend Developer, building responsive and interactive web applications.  
+- 📚 I'm currently learning advanced React concepts, state management (Redux, Zustand), and diving deeper into backend development.  
+- ⚡ In my free time, I enjoy exploring new technologies, solving coding challenges, and working on personal projects.  
+- 🎓 Graduated from the Faculty of Computer Science at Zagazig University in 2024.  
+- 🏆 Completed a 6-month training program with DEPI to sharpen my development skills.
+</p>
 <br/>
 <div align="left">
   <a href="https://www.youtube.com/@MARKGoast" target="_blank">
